@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rashidsubhani
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m a Web developer with 3 year's of experience. I have skills and knowledge of HTML,CSS & JavaScript, React, PHP.
+- 🌱 I have worked on different projects.
+- 💞️ I’m looking a new role in web development industry.
 - 📫 How to reach me? My email is ras_sub2003@yahoo.com
 
 <!---
